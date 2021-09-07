@@ -1,6 +1,6 @@
 The scripts 'attC-screening.sh' and 'IntI-screening.sh' can be used to filter DNA sequences to ensure that they represent amplicons from genuine integrons.
 
-The 'attC-screneing.sh' script filters input sequences for gene cassette receombination sites (*attC*s) and should be used for *attC-attC* amplicons data.
+The 'attC-screneing.sh' script filters input sequences for gene cassette receombination sites (*attC*s) and should be used for *attC-attC* amplicon data.
 The 'IntI-screening.sh'script filters input sequences for intergron integrase (IntI) protein sequences and should be used for *intI-attC* amplicon data.
 
 # attC-screening.sh
