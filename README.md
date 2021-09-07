@@ -5,7 +5,7 @@ The 'IntI-screening.sh'script filters input sequences for intergron integrase (I
 
 # attC-screening.sh
 
-This script uses the [HattCI](https://github.com/maribuon/HattCI) + [Infernal](http://eddylab.org/infernal/) pipeline that has been previously described [here](https://doi-org.simsrad.net.ocs.mq.edu.au/10.1186/s12864-020-06830-5) and [here](https://doi.org/10.1038/s42003-021-02489-0). In short, 'attC-screening.sh' searches for the sequence and secondary structures conserved among *attC*s and retains any input sequence that has at least one *attC* site. The script can be used on data generated from any sequencing technology.
+This script uses the [HattCI](https://github.com/maribuon/HattCI) + [Infernal](http://eddylab.org/infernal/) pipeline that has been previously described [here](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06830-5) and [here](https://doi.org/10.1038/s42003-021-02489-0). In short, 'attC-screening.sh' searches for the sequence and secondary structures conserved among *attC*s and retains any input sequence that has at least one *attC* site. The script can be used on data generated from any sequencing technology.
 
 ## attC-screening.sh usage:
 
