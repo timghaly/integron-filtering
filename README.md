@@ -9,17 +9,17 @@ This script uses the [HattCI](https://github.com/maribuon/HattCI) + [Infernal](h
 
 ## attC-screening.sh usage:
 
-usage: ./attC-screening.sh
+**usage:** ./attC-screening.sh
 
 
-Mandatory arguments:
+**Mandatory arguments:**
 
 -m : universal attC CM - 'attCs.cm'
 
 -i : input fasta of DNA sequences
 
 
-Optional arguments:
+**Optional arguments:**
 
 -b : bit score cut-off for cmsearch | default: 20 
 
@@ -30,15 +30,15 @@ Optional arguments:
 -o : output directory | default: current directory
 
 
-Dependencies:
+**Dependencies:**
 
-HattCI v1.0b
+[HattCI v1.0b](https://github.com/maribuon/HattCI)
 
-INFERNAL version 1
+[INFERNAL](http://eddylab.org/infernal/) version 1
 
-SAMtools
+[SAMtools](https://anaconda.org/bioconda/samtools)
 
-SeqKit
+[SeqKit](https://bioinf.shenwei.me/seqkit/)
 
 # IntI-screening.sh
 
@@ -46,17 +46,17 @@ The script uses a profile HMM used by the [Integron Finder](https://github.com/g
 
 ## IntI-screening.sh usage:
 
-usage: ./IntI_screening.sh
+**usage:** ./IntI_screening.sh
 
 
-Mandatory arguments:
+**Mandatory arguments:**
 
 -m : IntI HMM - 'IntI-Cterm.hmm'
 
 -i : input fasta of DNA sequences
 
 
-Optional arguments:
+**Optional arguments:**
 
 -l : minimum length of output sequences | default: 800 bp
 
@@ -65,14 +65,14 @@ Optional arguments:
 -o : output directory | default: current directory
 
 
-Dependencies:
+**Dependencies:**
 
-Prodigal
+[Prodigal](https://github.com/hyattpd/Prodigal)
 
-HMMER version 3
+[HMMER](http://hmmer.org/) version 3
 
-SAMtools
+[SAMtools](https://anaconda.org/bioconda/samtools)
 
-SeqKit
+[SeqKit](https://bioinf.shenwei.me/seqkit/)
 
 
