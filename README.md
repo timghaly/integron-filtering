@@ -11,20 +11,33 @@ This script uses the [HattCI](https://github.com/maribuon/HattCI) + [Infernal](h
 
 usage: ./attC-screening.sh
 
+
 Mandatory arguments:
--m : universal attC CM - 'attCs.cm' 
+
+-m : universal attC CM - 'attCs.cm'
+
 -i : input fasta of DNA sequences
 
+
 Optional arguments:
+
 -b : bit score cut-off for cmsearch | default: 20 
+
 -l : minimum length of output sequences | default: 500 bp
+
 -t : number of CPUs | default: 1 
+
 -o : output directory | default: current directory
 
+
 Dependencies:
+
 HattCI v1.0b
+
 INFERNAL version 1
+
 SAMtools
+
 SeqKit
 
 # IntI-screening.sh
@@ -35,19 +48,31 @@ The script uses a profile HMM used by the [Integron Finder](https://github.com/g
 
 usage: ./IntI_screening.sh
 
+
 Mandatory arguments:
+
 -m : IntI HMM - 'IntI-Cterm.hmm'
+
 -i : input fasta of DNA sequences
 
+
 Optional arguments:
+
 -l : minimum length of output sequences | default: 800 bp
+
 -t : number of CPUs | default: 1 
+
 -o : output directory | default: current directory
 
+
 Dependencies:
+
 Prodigal
+
 HMMER version 3
+
 SAMtools
+
 SeqKit
 
 
