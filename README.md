@@ -14,7 +14,7 @@ This script uses the [HattCI](https://github.com/maribuon/HattCI) + [Infernal](h
 
 **Mandatory arguments:**
 
--m : universal attC CM - 'attCs.cm'
+-m : universal attC CM ('attCs.cm')
 
 -i : input fasta of DNA sequences
 
@@ -51,7 +51,7 @@ The script uses a profile HMM used by the [Integron Finder](https://github.com/g
 
 **Mandatory arguments:**
 
--m : IntI HMM - 'IntI-Cterm.hmm'
+-m : IntI HMM ('IntI-Cterm.hmm')
 
 -i : input fasta of DNA sequences
 
