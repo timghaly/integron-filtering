@@ -78,11 +78,12 @@ The script uses a profile HMM used by the [Integron Finder](https://github.com/g
 
 # Citations:
 
-If you use either script **attC-screening.sh** or **IntI-screening.sh**, please cite:
+If you use either script (**attC-screening.sh** or **IntI-screening.sh**), please cite:
 
 Ghaly, T.M., Penesyan, A., Pritchard, A., Qi, Q., Rajabal, V., Tetu, S.G. and Gillings, M.R. 2021. Methods for the targeted sequencing and analysis of integrons and their gene cassettes from complex microbial communities. *bioRxiv*
 
 Please also cite all of their dependencies listed above.
 
 **IntI-screening.sh** makes use of the IntI-Cterm.hmm profile used by Integron Finder. If you use this script, please also cite their paper:
+
 Cury, J., Jové, T., Touchon, M., Néron, B. and Rocha, E.P. 2016. Identification and analysis of integrons and cassette arrays in bacterial genomes. *Nucleic Acids Research*, 44(10):4539-4550.
