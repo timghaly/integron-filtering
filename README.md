@@ -84,5 +84,5 @@ Ghaly, T.M., Penesyan, A., Pritchard, A., Qi, Q., Rajabal, V., Tetu, S.G. and Gi
 
 Please also cite all of their dependencies listed above.
 
-**IntI_screening.sh** makes use of the IntI-Cterm.hmm profile used by Integron Finder. If you use this script, please also cite their paper:
+**IntI-screening.sh** makes use of the IntI-Cterm.hmm profile used by Integron Finder. If you use this script, please also cite their paper:
 Cury, J., Jové, T., Touchon, M., Néron, B. and Rocha, E.P. 2016. Identification and analysis of integrons and cassette arrays in bacterial genomes. *Nucleic Acids Research*, 44(10):4539-4550.
