@@ -76,7 +76,7 @@ The script uses a profile HMM used by the [Integron Finder](https://github.com/g
 [SeqKit](https://bioinf.shenwei.me/seqkit/)
 
 
-## Citations:
+# Citations:
 
 If you use either script **attC-screening.sh** or **IntI-screening.sh**, please cite:
 
