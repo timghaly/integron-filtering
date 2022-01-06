@@ -30,15 +30,15 @@ This script uses the [HattCI](https://github.com/maribuon/HattCI) + [Infernal](h
 -o : output directory | default: current directory
 
 
-**Dependencies:**
+**Dependencies** (Script may work with older or newer versions):
 
 [HattCI v1.0b](https://github.com/maribuon/HattCI)
 
 [INFERNAL](http://eddylab.org/infernal/) version 1
 
-[SAMtools](https://anaconda.org/bioconda/samtools)
+[SAMtools](https://anaconda.org/bioconda/samtools) v1.12
 
-[SeqKit](https://bioinf.shenwei.me/seqkit/)
+[SeqKit](https://bioinf.shenwei.me/seqkit/) v0.7.2
 
 # IntI-screening.sh
 
@@ -65,15 +65,15 @@ The script uses a profile HMM used by the [Integron Finder](https://github.com/g
 -o : output directory | default: current directory
 
 
-**Dependencies:**
+**Dependencies** (Script may work with older or newer versions):
 
-[Prodigal](https://github.com/hyattpd/Prodigal)
+[Prodigal](https://github.com/hyattpd/Prodigal) v2.6.3
 
 [HMMER](http://hmmer.org/) version 3
 
-[SAMtools](https://anaconda.org/bioconda/samtools)
+[SAMtools](https://anaconda.org/bioconda/samtools) v1.12
 
-[SeqKit](https://bioinf.shenwei.me/seqkit/)
+[SeqKit](https://bioinf.shenwei.me/seqkit/) v0.7.2
 
 
 # Citations:
